@@ -1,4 +1,4 @@
-# Hi there, I'm [Endurance]! 👋
+# Hi there, I'm Endurance! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
@@ -6,11 +6,11 @@
 
 I'm a passionate **[Frontend Developer]** with experience in **[HTML, CSS and Javscript]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[Javscript]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[HTML, CSS, Javascript, English]**
-- 📫 How to reach me: **[apehendurance2@gmail.com]**
-- ⚡ Fun fact: **[I love solving bugs]**
+- 🌱 Currently learning: **Javscript**
+- 🔭 Working on: **https://github.com/EnduranceApeh/gadget-store**
+- 🌍 Languages: **HTML, CSS, Javascript, English**
+- 📫 How to reach me: **apehendurance2@gmail.com**
+- ⚡ Fun fact: **I love solving bugs**
 
 ## My Skills 🧠
 
@@ -37,7 +37,7 @@ I'm a passionate **[Frontend Developer]** with experience in **[HTML, CSS and Ja
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(https://substantial-autumn-abundant.on-fleek.app/index.html)
-- **[LinkedIn]**(apeh-endurance-aa642018a)
+- **[LinkedIn]**(www.linkedin.com/in/apeh-endurance-aa642018a)
 
 
 
