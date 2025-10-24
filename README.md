@@ -1,6 +1,6 @@
 # Hi there, I'm Endurance! 👋
 
-![Banner Image](public/images/Frontend Developer Banner Design.png)
+![Banner Image](https://github.com/EnduranceApeh/personal-portfolio/blob/master/public/images/Frontend%20Developer%20Banner%20Design.png)
 
 ## About Me 🚀
 
