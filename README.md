@@ -22,11 +22,11 @@ I'm a passionate **Frontend Developer** with experience in **HTML, CSS and Javsc
 
 ## Featured Projects 💻
 
-### Food ordering App(https://github.com/EnduranceApeh/personal-portfolio)
+### Food ordering App(https://github.com/EnduranceApeh/food-ordering-app)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+![Project 1 Screenshot](https://github.com/EnduranceApeh/personal-portfolio/blob/master/public/images/food-odering-app.png)
 
-**Project 1 Title** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**Food Ordering App** is a **[A responsive and visually appealing food ordering web app]** built with **[HTML, CSS & JS]**. This project demonstrates my ability to **[build practical, user-centered web experiences.]**. You can check out the repository [here](https://github.com/EnduranceApeh/food-ordering-app).
 
 ### [Project 2 Title](project_2_link)
 
