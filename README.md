@@ -26,13 +26,13 @@ I'm a passionate **Frontend Developer** with experience in **HTML, CSS and Javsc
 
 ![Project 1 Screenshot](https://github.com/EnduranceApeh/personal-portfolio/blob/master/public/images/food-odering-app.png)
 
-**Food Ordering App** is a **[A responsive and visually appealing food ordering web app]** built with **[HTML, CSS & JS]**. This project demonstrates my ability to **[build practical, user-centered web experiences.]**. You can check out the repository [here](https://github.com/EnduranceApeh/food-ordering-app).
+**Food Ordering App** is a **A responsive and visually appealing food ordering web app** built with **HTML, CSS & JS**. This project demonstrates my ability to **build practical, user-centered web experiences.**. You can check out the repository [here](https://github.com/EnduranceApeh/food-ordering-app).
 
-### [Project 2 Title](project_2_link)
+### [Gadget Store](https://github.com/EnduranceApeh/gadget-store)
 
-![Project 2 Screenshot](project_2_screenshot_url)
+![Project 2 Screenshot](https://github.com/EnduranceApeh/personal-portfolio/blob/master/public/images/Gadget-store%20Screenshot%202.png)
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+**[Gadget Store]** is a **[online gadget store where user can order for any gadget of choice]** built with **[HTML, CSS, JS & FIREBASE]**. This project showcases my skills in **Integrating front-end design with real-time backend services and build scalable, interactive eCommerce experiences.**. You can check out the repository [here](https://github.com/EnduranceApeh/gadget-store).
 
 ## Get in Touch 📬
 
