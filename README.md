@@ -1,10 +1,10 @@
 # Hi there, I'm Endurance! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](public/images/Frontend Developer Banner Design.png)
 
 ## About Me 🚀
 
-I'm a passionate **[Frontend Developer]** with experience in **[HTML, CSS and Javscript]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Frontend Developer** with experience in **HTML, CSS and Javscript**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Javscript**
 - 🔭 Working on: **https://github.com/EnduranceApeh/gadget-store**
@@ -22,11 +22,11 @@ I'm a passionate **[Frontend Developer]** with experience in **[HTML, CSS and Ja
 
 ## Featured Projects 💻
 
-### [Food ordering App](https://github.com/EnduranceApeh/personal-portfolio)
+### Food ordering App(https://github.com/EnduranceApeh/personal-portfolio)
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**Project 1 Title** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
 ### [Project 2 Title](project_2_link)
 
